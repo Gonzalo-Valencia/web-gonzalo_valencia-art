@@ -1,0 +1,14 @@
+[id="F1408033908"] .page-content {
+	padding-bottom: 2.0rem;
+	padding-left: 0rem;
+	padding-top: 2.0rem;
+}
+
+[id="F1408033908"].page {
+	background-color: rgba(242, 27, 67, 0.9);
+	--noise-bg-amount: 0.05;
+}
+
+[id="F1408033908"] .page-layout {
+	max-width: 98%;
+}
